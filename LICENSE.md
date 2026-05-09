@@ -191,15 +191,31 @@ Use the software entirely at your own risk.
 
 ---
 
-# 8. Termination
+# 8. Termination and Enforcement
 
 Violation of any section of this license results in immediate termination of all granted rights.
 
-Upon termination, you must:
-- Stop using the software.
-- Remove copies under your control where reasonably possible.
-- Cease distribution.
-- Stop deployment of derivative works that violate this license.
+Upon termination, the following applies:
+
+- All rights granted under this license are automatically revoked.
+- You must immediately cease use, distribution, and deployment of the software.
+- You must remove all copies of the software and derivatives under your control where reasonably possible.
+
+## Reporting and Enforcement
+
+If you believe this license has been violated, or if enforcement is required,
+you may contact the software author directly:
+
+📧 isaacbenjaminsoft@protonmail.com
+
+The author may, at their discretion:
+- Request removal of infringing usage
+- Request cessation of distribution
+- Request attribution correction
+- Grant or deny exceptions in writing
+
+Failure to comply with enforcement requests may result in further action,
+including public notice of violation or additional legal steps where applicable.
 
 ---
 
